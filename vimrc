@@ -4,3 +4,4 @@ set fdm=indent
 set autoindent
 set encoding=utf-8
 set fileencodings=utf-8
+set laststatus=2
