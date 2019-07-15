@@ -6,3 +6,4 @@ set encoding=utf-8
 set fileencodings=utf-8
 set laststatus=2
 set list
+syntax on
