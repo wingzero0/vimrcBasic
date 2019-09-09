@@ -7,4 +7,5 @@ set fileencodings=utf-8
 set laststatus=2
 set si
 set list
+set number
 syntax on
