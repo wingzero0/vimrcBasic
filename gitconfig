@@ -8,3 +8,6 @@ lg = !"git lg1"
 
 [core]
 	editor = vim
+[user]
+	name = wingzero0
+	email = wingzzz2003@hotmail.com
